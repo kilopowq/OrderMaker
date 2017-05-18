@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Order Maker v1.0</string>
+    <string name="searchTitle">Send</string>
+
+    <string name="menu_item_drinks">Напої</string>
+    <string name="menu_item_dishes">Напої</string>
+
+    <string name="view_navigation_open">Open</string>
+    <string name="view_navigation_close">Close</string>
+
+
+    <string name="tab_dishes">СТРАВИ</string>
+    <string name="tab_drinks">НАПОЇ</string>
+    <string name="tab_deserts">DESERTS</string>
+    <string name="tab_birthdays">BIRTHDAYS</string>
+
+    <string name="reset">Оновити</string>
+</resources>
